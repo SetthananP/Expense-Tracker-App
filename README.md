@@ -45,7 +45,7 @@ To run this project locally:
 
 2. Navigate into the project directory:
    ```bash
-   cd Task-Manager-App
+   cd Expense-Tracker-App
 
 3. Install dependencies:
    ```bash
